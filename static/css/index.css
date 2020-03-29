@@ -1,0 +1,70 @@
+.cursor{
+   cursor: pointer;
+}
+.head-bg{
+    box-shadow:  3px 5px 8px rgba(0, 0, 0, 0.3);
+    /* background-color:rgba(0, 0, 0, 0.8); */
+    /* box-shadow: white; */
+}
+.shadow{
+    box-shadow:  3px 5px 8px rgba(0, 0, 0, 0.3);
+}
+.nav-link{
+    font-size: 16px;
+    /* color: black !important; */
+    font-weight: 400;
+}
+
+/* home */
+.box-padding{
+    padding: 60px 40px;
+}
+.box-title{
+    padding: 20px 0px 40px 0px;
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+.box-second-title{
+    padding: 0px 0px 40px 0px;
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.box-third-title{
+    padding: 0px 0px 40px 0px;
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-size: 17x;
+    color: rgba(155, 53, 53，0.6);
+}
+.icon-img{
+    width: 50%;
+    height: 30%;
+}
+.join-bg{
+    background-image: url(../../static/imgs/join.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* practise */
+.small-box-padding{
+    padding: 15px;
+}
+
+.title-padding{
+    padding: 20px 40px;
+}
+
+/* commit */
+.box-padding{
+    padding-top: 20px;
+}
+.left-padding{
+    padding-left: 20px;
+}
+.circle-box{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #cccccc;
+}
